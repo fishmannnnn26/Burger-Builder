@@ -9,7 +9,7 @@ npm install
 npm start
 ```
 
-<p> Another alternative, you could just simply go to this link to check it out: </p>
-```sh
-https://react-my-burger-441b3.web.app/
-```
+<p> Then open [http://localhost:3000/](http://localhost:3000/) to see the app. </p>
+
+<p> Another alternative, you could just simply check build project that has been deployed at this link: </p>
+[https://react-my-burger-441b3.web.app/](https://react-my-burger-441b3.web.app/)
