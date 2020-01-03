@@ -1,7 +1,7 @@
 # Burger Builder
 <p> It is a web application built in JavaScript with the help of React frameworks. It utilizes all of the basic concept of JavaScript libraries such as Redux and React (including Hooks and React Router).</p>
   
-# How It Works
+### How It Works
 <p> You can simply run this project on your localhost with: </p>
 
 ```sh
