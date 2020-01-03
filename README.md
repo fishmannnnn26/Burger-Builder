@@ -5,6 +5,7 @@
 <p> You can simply run this project on your localhost with: </p>
 
 ```sh
+cd Burger-Builder
 npm install
 npm start
 ```
