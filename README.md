@@ -9,9 +9,7 @@ npm install
 npm start
 ```
 
-<p> Then open [http://localhost:3000/](http://localhost:3000/) to see the app. </p>
+Then open [http://localhost:3000/](http://localhost:3000/) to see the app. <br>
 
-<p> Another alternative, you could just simply check build project that has been deployed at this link: </p>
+Another alternative, you could just simply check build project that has been deployed at this link:
 [https://react-my-burger-441b3.web.app/](https://react-my-burger-441b3.web.app/)
-
-Then open [http://localhost:3000/](http://localhost:3000/) to see your app.<br>
