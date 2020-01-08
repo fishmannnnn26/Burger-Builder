@@ -13,4 +13,4 @@ npm start
 Then open [http://localhost:3000/](http://localhost:3000/) to see the app. <br>
 
 Another alternative, you could just simply check build project that has been deployed at this link: <br>
-[https://react-my-burger-441b3.web.app/](https://react-my-burger-441b3.web.app/)
+[https://react-my-burger-441b3.firebaseapp.com/](https://react-my-burger-441b3.firebaseapp.com/)
